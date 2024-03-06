@@ -1,6 +1,11 @@
-[![](https://raw.githubusercontent.com/sidemt/sidemt/main/profile-summary-card-output/moonlight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/sidemt/sidemt/main/profile-summary-card-output/moonlight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sidemt/sidemt/main/profile-summary-card-output/moonlight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/sidemt/sidemt/main/profile-summary-card-output/moonlight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sidemt/sidemt/main/profile-summary-card-output/moonlight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<div>
+  <img width=750 src="https://raw.githubusercontent.com/sidemt/sidemt/main/profile-summary-card-output/nord_dark/0-profile-details.svg" />
+</div>
+<div>
+  <img width=250 src="https://raw.githubusercontent.com/sidemt/sidemt/main/profile-summary-card-output/nord_dark/3-stats.svg" /><img width=250 src="https://raw.githubusercontent.com/sidemt/sidemt/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" /><img width=250 src="https://raw.githubusercontent.com/sidemt/sidemt/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" />
+</div>
+
+Stats generated with [GitHub Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <!--
 **sidemt/sidemt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
