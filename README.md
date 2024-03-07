@@ -1,23 +1,10 @@
 <div>
-  <img width=750 src="https://raw.githubusercontent.com/sidemt/sidemt/main/profile-summary-card-output/nord_dark/0-profile-details.svg" />
+  <div>
+    <img width=620 src="https://raw.githubusercontent.com/sidemt/sidemt/main/profile-summary-card-output/nord_dark/0-profile-details.svg" />
+  </div>
+  <div>
+    <img height=150 src="https://github-readme-stats-rust-mu.vercel.app/api?username=sidemt&theme=default" /><img height=150 src="https://github-readme-stats-rust-mu.vercel.app/api/top-langs/?username=sidemt&layout=compact&theme=default" />
+  </div>
 </div>
-<div>
-  <img width=250 src="https://raw.githubusercontent.com/sidemt/sidemt/main/profile-summary-card-output/nord_dark/3-stats.svg" /><img width=250 src="https://raw.githubusercontent.com/sidemt/sidemt/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" /><img width=250 src="https://raw.githubusercontent.com/sidemt/sidemt/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" />
-</div>
 
-Stats generated with [GitHub Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-<!--
-**sidemt/sidemt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Stats generated with [GitHub Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) and [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
